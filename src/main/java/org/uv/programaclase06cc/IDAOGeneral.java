@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  *
- * @author fermin
+ * @author Itzel Rios
  */
 public interface IDAOGeneral<T, ID>{
     public T create(T p);

@@ -18,7 +18,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author fermin
+ * @author Itzel rios
  */
 
 @Entity

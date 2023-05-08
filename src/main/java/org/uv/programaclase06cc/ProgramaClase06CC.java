@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author fermin
+ * @author Itzel Rios
  */
 public class ProgramaClase06CC {
 
